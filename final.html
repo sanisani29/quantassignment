@@ -1,0 +1,384 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Arts of the Islamic World</title>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+    <!-- Leaflet CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.3/dist/leaflet.css" />
+
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        html,
+        body {
+            height: 100%;
+            overflow-x: hidden;
+            font-family: 'Poppins', sans-serif;
+            scroll-behavior: smooth;
+            /* Smooth scrolling */
+        }
+
+        body {
+            background-color: #f5f7fa;
+        }
+
+        .section {
+            min-height: 100vh;
+            /* Full viewport height */
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+            padding: 20px;
+            transition: all 0.3s ease;
+        }
+
+        /* Section 1 Styling with background image */
+        .section-1 {
+    background: url('https://ichef.bbci.co.uk/images/ic/1376xn/p0cxghdn.jpg.webp') no-repeat center center; /* Add image path */
+    background-size: cover; /* Ensure the image covers the entire section */
+    color: #fff;
+    padding: 40px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Adds some contrast for text readability */
+    position: relative;
+    z-index: 1; /* Ensure the content is above the overlay */
+}
+
+/* Create an overlay with reduced opacity */
+.section-1::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.7); /* Black overlay with 50% opacity */
+    z-index: -1; /* Ensure the overlay is behind the content */
+}
+
+
+        /* Section 2 Styling */
+        .section-2 {
+
+            background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
+            color: #fff;
+              height: 100vh;
+                /* Full viewport height */
+                display: flex;
+                align-items: center;
+                /* Vertically center the content */
+                justify-content: center;
+                /* Horizontally center the content */
+                flex-direction: column;
+                /* Stack items vertically */
+                text-align: center;
+                /* Center text */
+                padding: 20px;
+            
+
+            /* Wrapper for the image */
+            .image-wrapper {
+                display: flex;
+                justify-content: center;
+                /* Center image horizontally */
+                align-items: center;
+                /* Center image vertically */
+                margin-top: 20px;
+                /* Adjust margin if needed */
+            }
+
+            /* Styling for the image */
+            .centered-image {
+                max-width: 100%;
+                /* Responsive sizing */
+                height: auto;
+                /* Keep image aspect ratio */
+            }
+
+            /* Scroll button styling */
+            .scroll-btn {
+                margin-top: 20px;
+                display: inline-block;
+                font-size: 24px;
+                text-decoration: none;
+            }
+        }
+
+                /* Section 3 Styling */
+        /* Section 3: Leaflet Map Section */
+        .section-3 {
+            height: 100vh;
+            width: 100%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            position: relative;
+            background-color: #333;
+        }
+
+        #container {
+            width: 100%;
+            height: 100%;
+        }
+
+        
+        /* Section 4 Styling */
+        .section-4 {
+            background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
+            color: #fff;
+              height: 100vh;
+                /* Full viewport height */
+                display: flex;
+                align-items: center;
+                /* Vertically center the content */
+                justify-content: center;
+                /* Horizontally center the content */
+                flex-direction: column;
+                /* Stack items vertically */
+                text-align: center;
+                /* Center text */
+                padding: 20px;
+            
+
+            /* Wrapper for the image */
+            .image-wrapper {
+                display: flex;
+                justify-content: center;
+                /* Center image horizontally */
+                align-items: center;
+                /* Center image vertically */
+                margin-top: 20px;
+                /* Adjust margin if needed */
+            }
+
+            /* Styling for the image */
+            .centered-image {
+                max-width: 100%;
+                /* Responsive sizing */
+                height: auto;
+                /* Keep image aspect ratio */
+            }
+
+            /* Scroll button styling */
+            .scroll-btn {
+                margin-top: 20px;
+                display: inline-block;
+                font-size: 24px;
+                text-decoration: none;
+            }
+            background: linear-gradient(135deg, #ff9a9e 0%, #fad0c4 100%);
+            color: #fff;
+        }
+
+        /* Section 5 Styling */
+        .section-5 {
+            background: linear-gradient(135deg, #5501f1 0%, #0bf0dd4b 100%);
+            color: #fff;
+        }
+        /* Section 6 Styling - Map Section */
+        #map {
+            height: 100vh;
+            /* Full-screen height for the map */
+            width: 100%;
+            /* Full width for the map */
+        }
+
+        h1 {
+            font-size: 3em;
+            margin-bottom: 20px;
+            font-weight: 600;
+        }
+
+        p {
+            font-size: 1.2em;
+            font-weight: 300;
+        }
+
+
+        h1 {
+            font-size: 3em;
+            margin-bottom: 20px;
+            font-weight: 600;
+        }
+
+        p {
+            font-size: 1.2em;
+            font-weight: 300;
+        }
+
+        /* Scroll Buttons */
+        .scroll-btn {
+            display: inline-block;
+            margin-top: 20px;
+            padding: 10px 20px;
+            background-color: #fff;
+            color: #333;
+            border-radius: 25px;
+            text-decoration: none;
+            font-weight: 600;
+            transition: all 0.3s ease;
+        }
+
+        .scroll-btn:hover {
+            background-color: #333;
+            color: #fff;
+        }
+
+        /* Footer */
+        footer {
+            text-align: center;
+            padding: 20px;
+            background-color: #333;
+            color: #fff;
+            position: relative;
+        }
+    </style>
+</head>
+
+<body>
+
+    <!-- Section 1 -->
+    <div class="section section-1" id="section1">
+        <div>
+            <h1>What time is it on the clock of the world?</h1>
+            <br>
+            <br>
+            <h2>The Western canon serves a very primary function in shaping thought, one that is seldom overtly
+                recognized. It is a record of the thoughts and ideas and imaginations of the times it was written.</h2>
+            <br>
+            <br>
+            <h3>To this, I pose the question, how can a Western logic of time truly encompass a dynamic view of history
+                and historioraphy that falls outside its own bounds?</h3>
+            <br>
+            <br>
+
+            <p>Inspired by the Smithsonian Open Access database and by the celebrated post-colonial academic Gayatri
+                Spivak's claim that "that crises around life can be analyzed as a result of unequal time logics", I set
+                out to repatriate -- even if for a moment -- a way of keeping time that is flattened out of the dominant
+                chronology and a way of record keeping.
+
+            </p>
+            <a href="#section2" class="scroll-btn">↓</a>
+        </div>
+    </div>
+
+    <!-- Section 2 -->
+    <div class="section section-2" id="section2">
+        <div class="content-wrapper">
+            <h1>Artifacts by Empire and Dynasty
+             </h1>
+            <div class="image-wrapper">
+                <img src="https://upload.wikimedia.org/wikipedia/en/timeline/m1gfwe6x10sstflg0360tsn097nzold.png" alt="Centered Image" class="centered-image">
+            </div>
+            <br>
+            <p>This project aims to put the vast records of the Arts of the Islamic world back in the way time was kept back then; by Caliphates,
+                Dynasties, and Empires. As is evident, many of these timelines overlap, many exist at the same time or incongruently, and many resist a linear temporal evaluation when so many different regions and countries affect how "time" is seen.</p>
+            <br>
+            <p>The following graph helps reimagine the "flow" of contribution of each Empire in fashioning the material world of Islamic history & culture, recorded by the dynasty or empire these relics of craftsmanship originated from.</p>
+            <!-- Image element centered -->
+            
+            <!-- Scroll button -->
+            <a href="#map" class="scroll-btn">↓</a>
+        </div>
+    </div>
+        <!-- Section 3 -->
+        <head>
+            <script src="https://cdn.anychart.com/releases/v8/js/anychart-core.min.js"></script>
+            <script src="https://cdn.anychart.com/releases/v8/js/anychart-sankey.min.js"></script>
+            </head>
+            <body>
+                <script src="sankeychart.js">
+                </script>
+            <div id="container"></div>
+            
+            </body>
+        
+
+    
+        <!-- Section 4 -->
+        <div class="section section-4" id="section4">
+            <div>
+                <h1>Where were these empires?</h1>
+                <div class="image-wrapper">
+                    <img src="https://brjimc.com/wp-content/uploads/2007/02/spread.jpg" alt="Centered Image" class="centered-image">
+                </div>
+                <p>These majestic empires today form the nation states of the Middle East. With a rich, artistic, and meticulous-to-detail artisanal culture, I can't help but think how the treatment of the countries in this region is prohibiting any sort of archives and artifact repositories from forming for future generations to look back on. May the resources we have disposable to us help us not only safeguard the future, but may the humanity we have today also help us document the present with oral histories. </p>
+                <a href="#section5" class="scroll-btn">↓</a>
+            </div>
+        </div>
+
+        <!-- Section 5 -->
+        <div class="section section-5" id="section5">
+            <div>
+                <h1>Explore these Artifacts!</h1>
+                <p> For this last section, I wanted to make visible as many of these artifacts that are often buried in museums, debris and the annals of history. This map shows the varying concentrations of the artifacts collected from their respective, present-day countries. The gradient from yellow to red reflects the amount of artifacts found, and upon click, will give you an at-a-glance of all the artifacts from the empires of the past.</p>
+                <a href="#section6" class="scroll-btn">↓</a>
+            </div>
+        </div>
+        <!-- Section 6 -->
+
+    <head>
+        <title>Leaflet.js World Map</title>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <!-- Leaflet CSS -->
+        <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.3/dist/leaflet.css" />
+        <!-- Leaflet CSS -->
+        <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+        <style>
+            #map {
+                height: 600px;
+            }
+
+            .info {
+                padding: 6px 8px;
+                font: 14px/16px Arial, Helvetica, sans-serif;
+                background: white;
+                background: rgba(255, 255, 255, 0.8);
+                box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+                border-radius: 5px;
+            }
+        </style>
+    </head>
+
+    <body>
+
+        <div class="section section-3" id="map">
+        </div>
+
+        <!-- Leaflet JS -->
+        <!-- <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script> -->
+        <script src="https://d3js.org/d3.v7.min.js"></script>
+        <script src="/js/leaflet-0.7.2/leaflet.ajax.min.js"></script>
+        <script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js"></script>
+
+
+        <script src="map.js"></script>
+        
+        <!-- Footer -->
+        <footer>
+            &copy; 2024 Your Website. All rights reserved.
+        </footer>
+
+    </body>
+
+</html>
+<style>
+    #map {
+        height: 100vh;
+        /* Full-screen height */
+        width: 100%;
+        /* Full width */
+    }
+</style>
+</head>
+</body>
+
+</html>

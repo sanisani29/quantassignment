@@ -1,0 +1,2007 @@
+[
+    {
+        "id": "sro-1663946979444-1663947004769-1",
+        "title": "Arts of the Islamic World",
+        "unitCode": "SLA_SRO",
+        "type": "edanmdm",
+        "url": "edanmdm:slasro_102609",
+        "content": {
+            "freetext": {
+                "date": [
+                    {
+                        "label": "Year",
+                        "content": "2006"
+                    }
+                ],
+                "name": [
+                    {
+                        "label": "Author",
+                        "content": "Farhad, Massumeh"
+                    }
+                ],
+                "notes": [
+                    {
+                        "label": "Citation",
+                        "content": "Farhad, Massumeh. 2006. \"Arts of the Islamic World.\" <em>Arts Of Asia</em>, 36, (1) 118."
+                    }
+                ],
+                "dataSource": [
+                    {
+                        "label": "Data source",
+                        "content": "Smithsonian Libraries and Archives"
+                    }
+                ],
+                "identifier": [
+                    {
+                        "label": "Identifier",
+                        "content": "102609"
+                    },
+                    {
+                        "label": "ISSN",
+                        "content": "0004-4083"
+                    }
+                ],
+                "objectType": [
+                    {
+                        "label": "Object Type",
+                        "content": "Smithsonian staff publication"
+                    }
+                ]
+            },
+            "indexedStructured": {
+                "date": [
+                    "2000s"
+                ],
+                "name": [
+                    {
+                        "type": "author",
+                        "content": "Farhad, Massumeh"
+                    }
+                ],
+                "object_type": [
+                    "Journal Article",
+                    "Smithsonian staff publications"
+                ]
+            },
+            "descriptiveNonRepeating": {
+                "title": {
+                    "label": "Title",
+                    "content": "Arts of the Islamic World"
+                },
+                "record_ID": "slasro_102609",
+                "unit_code": "SLA_SRO",
+                "title_sort": "ARTS OF THE ISLAMIC WORLD",
+                "data_source": "Smithsonian Libraries and Archives",
+                "metadata_usage": {
+                    "access": "CC0"
+                }
+            }
+        },
+        "hash": "9feb5ad47968c9f1ca1e3fb202be806d5f5f3e9a",
+        "docSignature": "8322d37540e32c2d3a08211147a966a8",
+        "timestamp": "1663956041",
+        "lastTimeUpdated": "1670952722",
+        "version": "1670952667"
+    },
+    {
+        "id": "ld1-1646149545906-1646150425827-2",
+        "title": "Vostok i Zapad, iskusstvo islamskogo mira : katalog vystavki = East and West, the art of the Islamic world : catalogue of the exhibition / Avtor kontseptsii i vstupitelʹnoǐ statʹi, A.D. Pritula ; avtory annotatsiǐ, S.B. Adaksina [and others] ; perevod na angliǐskiǐ iazyk, E.S. Petrova",
+        "unitCode": "SIL",
+        "type": "edanmdm",
+        "url": "edanmdm:siris_sil_1097528",
+        "content": {
+            "freetext": {
+                "date": [
+                    {
+                        "label": "Date",
+                        "content": "2011"
+                    }
+                ],
+                "name": [
+                    {
+                        "label": "Author",
+                        "content": "Gosudarstvennyĭ Ėrmitazh (Russia)"
+                    },
+                    {
+                        "label": "Author",
+                        "content": "Pritula, Anton D"
+                    },
+                    {
+                        "label": "Author",
+                        "content": "Adaksina, S. B"
+                    },
+                    {
+                        "label": "Subject",
+                        "content": "Gosudarstvennyĭ Ėrmitazh (Russia)"
+                    }
+                ],
+                "notes": [
+                    {
+                        "label": "Notes",
+                        "content": "Catalog of an exhibition held at the exhibition hall \"Ėrmitazh-Vyborg\", Mar. 1-Sept. 18, 2011."
+                    }
+                ],
+                "place": [
+                    {
+                        "label": "Place",
+                        "content": "Russia (Federation)"
+                    },
+                    {
+                        "label": "Place",
+                        "content": "Saint Petersburg"
+                    }
+                ],
+                "title": [
+                    {
+                        "label": "Title",
+                        "content": "&#x0412;&#x043E;&#x0441;&#x0442;&#x043E;&#x043A; &#x0438; &#x0417;&#x0430;&#x043F;&#x0430;&#x0434;, &#x0438;&#x0441;&#x043A;&#x0443;&#x0441;&#x0441;&#x0442;&#x0432;&#x043E; &#x0438;&#x0441;&#x043B;&#x0430;&#x043C;&#x0441;&#x043A;&#x043E;&#x0433;&#x043E; &#x043C;&#x0438;&#x0440;&#x0430; : &#x043A;&#x0430;&#x0442;&#x0430;&#x043B;&#x043E;&#x0433; &#x0432;&#x044B;&#x0441;&#x0442;&#x0430;&#x0432;&#x043A;&#x0438; = East and West, the art of the Islamic world : catalogue of the exhibition / &#x0410;&#x0432;&#x0442;&#x043E;&#x0440; &#x043A;&#x043E;&#x043D;&#x0446;&#x0435;&#x043F;&#x0446;&#x0438;&#x0438; &#x0438; &#x0432;&#x0441;&#x0442;&#x0443;&#x043F;&#x0438;&#x0442;&#x0435;&#x043B;&#x044C;&#x043D;&#x043E;&#x0438;̌ &#x0441;&#x0442;&#x0430;&#x0442;&#x044C;&#x0438;, &#x0410;.&#x0414;. &#x041F;&#x0440;&#x0438;&#x0442;&#x0443;&#x043B;&#x0430; ; &#x0430;&#x0432;&#x0442;&#x043E;&#x0440;&#x044B; &#x0430;&#x043D;&#x043D;&#x043E;&#x0442;&#x0430;&#x0446;&#x0438;&#x0438;̌, &#x0421;.&#x0411;. &#x0410;&#x0434;&#x0430;&#x043A;&#x0441;&#x0438;&#x043D;&#x0430; [and others] ; &#x043F;&#x0435;&#x0440;&#x0435;&#x0432;&#x043E;&#x0434; &#x043D;&#x0430; &#x0430;&#x043D;&#x0433;&#x043B;&#x0438;&#x0438;̌&#x0441;&#x043A;&#x0438;&#x0438;̌ &#x044F;&#x0437;&#x044B;&#x043A;, &#x0415;.&#x0421;. &#x041F;&#x0435;&#x0442;&#x0440;&#x043E;&#x0432;&#x0430;"
+                    },
+                    {
+                        "label": "Title",
+                        "content": "East and West, the art of the Islamic world"
+                    }
+                ],
+                "topic": [
+                    {
+                        "label": "Topic",
+                        "content": "Islamic decorative arts"
+                    },
+                    {
+                        "label": "Topic",
+                        "content": "Islamic art objects"
+                    },
+                    {
+                        "label": "Topic",
+                        "content": "Decorative arts"
+                    }
+                ],
+                "dataSource": [
+                    {
+                        "label": "Data Source",
+                        "content": "Smithsonian Libraries"
+                    }
+                ],
+                "objectType": [
+                    {
+                        "label": "Type",
+                        "content": "Exhibitions"
+                    },
+                    {
+                        "label": "Type",
+                        "content": "Exhibition catalogs"
+                    }
+                ],
+                "physicalDescription": [
+                    {
+                        "label": "Physical description",
+                        "content": "95 pages : chiefly color illustrations, maps ; 24 x 26 cm"
+                    }
+                ]
+            },
+            "indexedStructured": {
+                "date": [
+                    "2010s"
+                ],
+                "name": [
+                    "Gosudarstvennyĭ Ėrmitazh (Russia)",
+                    "Pritula, Anton D",
+                    "Adaksina, S. B"
+                ],
+                "place": [
+                    "Russia (Federation)",
+                    "Saint Petersburg"
+                ],
+                "topic": [
+                    "Islamic decorative arts",
+                    "Decoration and ornament",
+                    "Islamic art objects"
+                ],
+                "language": [
+                    "English language",
+                    "Russian language"
+                ],
+                "object_type": [
+                    "Exhibition catalogs",
+                    "Exhibitions (events)"
+                ]
+            },
+            "descriptiveNonRepeating": {
+                "title": {
+                    "label": "Title",
+                    "content": "Vostok i Zapad, iskusstvo islamskogo mira : katalog vystavki = East and West, the art of the Islamic world : catalogue of the exhibition / Avtor kontseptsii i vstupitelʹnoǐ statʹi, A.D. Pritula ; avtory annotatsiǐ, S.B. Adaksina [and others] ; perevod na angliǐskiǐ iazyk, E.S. Petrova"
+                },
+                "record_ID": "siris_sil_1097528",
+                "unit_code": "SIL",
+                "title_sort": "VOSTOK I ZAPAD ISKUSSTVO ISLAMSKOGO MIRA : KATALOG VYSTAVKI = EAST AND WEST THE ART OF THE ISLAMIC WORLD : CATALOGUE OF THE EXHIBITION AVTOR KONTSEPTSII I VSTUPITELʹNOǏ STATʹI AD PRITULA AVTORY ANNOTATSIǏ SB ADAKSINA AND OTHERS PEREVOD NA ANGLIǏSKIǏ IAZYK ES PETROVA",
+                "data_source": "Smithsonian Libraries",
+                "record_link": "https://siris-libraries.si.edu/ipac20/ipac.jsp?&profile=liball&source=~!silibraries&uri=full=3100001~!1097528~!0#focus",
+                "metadata_usage": {
+                    "text": "",
+                    "access": "CC0"
+                }
+            }
+        },
+        "hash": "3177896953bec87e129e550514121d42fe9c4941",
+        "docSignature": "bf73fa630d40203e68ee1d41c2bc1b61",
+        "timestamp": "1543309812",
+        "lastTimeUpdated": "1661961699",
+        "version": "0"
+    },
+    {
+        "id": "ld1-1646149545906-1646149628274-0",
+        "title": "Art of the Islamic world : a resource for educators / edited by Maryam D. Ekhtiar and Claire Moore",
+        "unitCode": "SIL",
+        "type": "edanmdm",
+        "url": "edanmdm:siris_sil_1034419",
+        "content": {
+            "freetext": {
+                "date": [
+                    {
+                        "label": "Date",
+                        "content": "2012"
+                    },
+                    {
+                        "label": "Date",
+                        "content": "C2012"
+                    }
+                ],
+                "name": [
+                    {
+                        "label": "Author",
+                        "content": "Metropolitan Museum of Art (New York, N.Y.)"
+                    },
+                    {
+                        "label": "editor",
+                        "content": "Ekhtiar, Maryam"
+                    },
+                    {
+                        "label": "editor",
+                        "content": "Moore, Claire"
+                    },
+                    {
+                        "label": "Subject",
+                        "content": "Metropolitan Museum of Art (New York, N.Y.) Department of Islamic Art"
+                    }
+                ],
+                "notes": [
+                    {
+                        "label": "Notes",
+                        "content": "Family guide, Dazzling details in folded front cover."
+                    },
+                    {
+                        "label": "Notes",
+                        "content": "Posters and CD-ROM in pocket of back cover."
+                    },
+                    {
+                        "label": "Notes",
+                        "content": "Issued in slipcase."
+                    },
+                    {
+                        "label": "Notes",
+                        "content": "CD-ROM includes a PDF of the teacher resource guide, digital images of 45 featured works of art in the Metropolitan Museum's collection of easy viewing for the classroom, digital images of related objects to support classroom activities, and maps."
+                    },
+                    {
+                        "label": "Contents",
+                        "content": "Islam and religious art -- Arabic script and the art of calligraphy -- Geometric design in Islamic art -- Science and the art of the Islamic world -- Courtly splendor in the Islamic world -- The making of a Persian royal manuscript : the Shahnama (Book of Kings) of Shah Tahmasp -- From the city to the steppe : art beyond the royal court -- Trade and artistic exchange"
+                    }
+                ],
+                "topic": [
+                    {
+                        "label": "Topic",
+                        "content": "Islamic art--Study and teaching"
+                    }
+                ],
+                "dataSource": [
+                    {
+                        "label": "Data Source",
+                        "content": "Smithsonian Libraries"
+                    }
+                ],
+                "objectType": [
+                    {
+                        "label": "Type",
+                        "content": "Electronic resources"
+                    }
+                ],
+                "physicalDescription": [
+                    {
+                        "label": "Physical description",
+                        "content": "236 p. : col. ill., col. maps ; 31 cm + 1 family guide (1 folded sheet [6 p.] : col. ill. ; 28 cm) + 1 CD-ROM + 2 posters (76 x 46 cm folded to 24 x 19 cm)"
+                    }
+                ]
+            },
+            "indexedStructured": {
+                "date": [
+                    "2010s"
+                ],
+                "name": [
+                    "Metropolitan Museum of Art (New York, N.Y.)",
+                    "Ekhtiar, Maryam",
+                    "Moore, Claire"
+                ],
+                "topic": [
+                    "Islamic art",
+                    "Study and teaching"
+                ],
+                "language": [
+                    "English language"
+                ],
+                "object_type": [
+                    "Electronic information resources"
+                ]
+            },
+            "descriptiveNonRepeating": {
+                "title": {
+                    "label": "Title",
+                    "content": "Art of the Islamic world : a resource for educators / edited by Maryam D. Ekhtiar and Claire Moore"
+                },
+                "record_ID": "siris_sil_1034419",
+                "unit_code": "SIL",
+                "title_sort": "ART OF THE ISLAMIC WORLD : A RESOURCE FOR EDUCATORS EDITED BY MARYAM D EKHTIAR AND CLAIRE MOORE",
+                "data_source": "Smithsonian Libraries",
+                "record_link": "https://siris-libraries.si.edu/ipac20/ipac.jsp?&profile=liball&source=~!silibraries&uri=full=3100001~!1034419~!0#focus",
+                "metadata_usage": {
+                    "text": "",
+                    "access": "CC0"
+                }
+            }
+        },
+        "hash": "c5fba70527faad67a972e8cd3fe1ffe52670400d",
+        "docSignature": "02eb17ca0d69cfe8b602b061a8939688",
+        "timestamp": "1498153816",
+        "lastTimeUpdated": "1661963314",
+        "version": "0"
+    },
+    {
+        "id": "ld1-1643390182193-1643390195179-1",
+        "title": "5 fragments of Syrian enameled glass",
+        "unitCode": "FSG",
+        "type": "edanmdm",
+        "url": "edanmdm:fsg_FSC-G-2",
+        "content": {
+            "freetext": {
+                "date": [
+                    {
+                        "label": "Date",
+                        "content": "13th century"
+                    }
+                ],
+                "notes": [
+                    {
+                        "label": "Provenance",
+                        "content": "To 1962"
+                    },
+                    {
+                        "label": "Provenance",
+                        "content": "Fahim Kouchakji, New York. [1]"
+                    },
+                    {
+                        "label": "Provenance",
+                        "content": "From 1962"
+                    },
+                    {
+                        "label": "Provenance",
+                        "content": "Freer Gallery of Art, gift of Fahim Kouchakji, New York. [2]"
+                    },
+                    {
+                        "label": "Provenance",
+                        "content": "Notes:"
+                    },
+                    {
+                        "label": "Provenance",
+                        "content": "[1] See Curatorial Remark 1 in the object record."
+                    },
+                    {
+                        "label": "Provenance",
+                        "content": "[2] See note 1."
+                    },
+                    {
+                        "label": "Collection",
+                        "content": "Freer Study Collection"
+                    },
+                    {
+                        "label": "Previous custodian or owner",
+                        "content": "Fahim Kouchakji"
+                    }
+                ],
+                "place": [
+                    {
+                        "label": "Origin",
+                        "content": "Syria"
+                    }
+                ],
+                "topic": [
+                    {
+                        "label": "Topic",
+                        "content": "blow molding"
+                    },
+                    {
+                        "label": "Topic",
+                        "content": "enameling"
+                    },
+                    {
+                        "label": "Topic",
+                        "content": "glassblowing"
+                    },
+                    {
+                        "label": "Topic",
+                        "content": "glass"
+                    },
+                    {
+                        "label": "Topic",
+                        "content": "Islam"
+                    },
+                    {
+                        "label": "Topic",
+                        "content": "Roman Period (30 BCE - 395 CE)"
+                    },
+                    {
+                        "label": "Topic",
+                        "content": "Syria"
+                    },
+                    {
+                        "label": "Topic",
+                        "content": "Arts of the Islamic World"
+                    }
+                ],
+                "setName": [
+                    {
+                        "label": "Related Online Resources",
+                        "content": "Google Cultural Institute"
+                    },
+                    {
+                        "label": "See more items in",
+                        "content": "Freer Gallery of Art and Arthur M. Sackler Gallery Collection"
+                    }
+                ],
+                "creditLine": [
+                    {
+                        "label": "Credit Line",
+                        "content": "Gift of Fahim Kouchakji"
+                    }
+                ],
+                "dataSource": [
+                    {
+                        "label": "Data Source",
+                        "content": "Freer Gallery of Art and Arthur M. Sackler Gallery"
+                    }
+                ],
+                "identifier": [
+                    {
+                        "label": "Accession Number",
+                        "content": "FSC-G-2"
+                    }
+                ],
+                "objectType": [
+                    {
+                        "label": "Type",
+                        "content": "Vessel"
+                    }
+                ],
+                "objectRights": [
+                    {
+                        "label": "Restrictions & Rights",
+                        "content": "CC0"
+                    }
+                ],
+                "physicalDescription": [
+                    {
+                        "label": "Medium",
+                        "content": "Enameled glass"
+                    }
+                ]
+            },
+            "indexedStructured": {
+                "date": [
+                    "1200s",
+                    "1300s"
+                ],
+                "name": [
+                    "Fahim Kouchakji"
+                ],
+                "topic": [
+                    "Art",
+                    "Arts of the Islamic World",
+                    "Enamel and enameling",
+                    "Blow molding",
+                    "Roman Period (30 BCE - 395 CE)",
+                    "Glassblowing"
+                ],
+                "culture": [
+                    "Muslims",
+                    "Syrians"
+                ],
+                "object_type": [
+                    "Vessels (containers)"
+                ],
+                "online_media_type": [
+                    "Images"
+                ]
+            },
+            "descriptiveNonRepeating": {
+                "guid": "http://n2t.net/ark:/65665/ye3765ec9a6-ff57-4564-b679-8abd27a189a8",
+                "title": {
+                    "label": "Title",
+                    "content": "5 fragments of Syrian enameled glass"
+                },
+                "record_ID": "fsg_FSC-G-2",
+                "unit_code": "FSG",
+                "title_sort": "5 FRAGMENTS OF SYRIAN ENAMELED GLASS",
+                "data_source": "Freer Gallery of Art and Arthur M. Sackler Gallery",
+                "record_link": "https://asia.si.edu/object/FSC-G-2/",
+                "online_media": {
+                    "media": [
+                        {
+                            "id": "damsmdm:FS-fsc_g_2a",
+                            "guid": "http://n2t.net/ark:/65665/jy51a68233d-3975-4a69-8054-bb232f6b31f4",
+                            "type": "Images",
+                            "idsId": "FS-fsc_g_2a",
+                            "usage": {
+                                "access": "CC0"
+                            },
+                            "content": "https://ids.si.edu/ids/deliveryService?id=FS-fsc_g_2a",
+                            "thumbnail": "https://ids.si.edu/ids/deliveryService?id=FS-fsc_g_2a",
+                            "altTextAccessibility": "",
+                            "resources": [
+                                {
+                                    "label": "High-resolution JPEG",
+                                    "url": "https://ids.si.edu/ids/download?id=FS-fsc_g_2a.jpg",
+                                    "width": 772,
+                                    "height": 1068,
+                                    "dimensions": "772x1068"
+                                },
+                                {
+                                    "label": "Screen Image",
+                                    "url": "https://ids.si.edu/ids/download?id=FS-fsc_g_2a_screen"
+                                },
+                                {
+                                    "label": "Thumbnail Image",
+                                    "url": "https://ids.si.edu/ids/download?id=FS-fsc_g_2a_thumb"
+                                }
+                            ]
+                        }
+                    ],
+                    "mediaCount": 1
+                },
+                "metadata_usage": {
+                    "access": "CC0"
+                }
+            }
+        },
+        "hash": "4fbc4dfdb56b224de6a5f8f87a033abc3df04d08",
+        "docSignature": "9060ac216a84324fc1d92b5231f4314f",
+        "timestamp": "1664286033",
+        "lastTimeUpdated": "1717673312",
+        "version": "1717668300"
+    },
+    {
+        "id": "ld1-1643390182193-1643390200063-1",
+        "title": "Fragmentary base of a bowl",
+        "unitCode": "FSG",
+        "type": "edanmdm",
+        "url": "edanmdm:fsg_FSC-P-4810",
+        "content": {
+            "freetext": {
+                "date": [
+                    {
+                        "label": "Date",
+                        "content": "12th-13th century"
+                    }
+                ],
+                "notes": [
+                    {
+                        "label": "Provenance",
+                        "content": "From 1950s – 2001"
+                    },
+                    {
+                        "label": "Provenance",
+                        "content": "Mr. and Mrs. Laurance P. Roberts, acquired in the 1950s from Iran. [1]"
+                    },
+                    {
+                        "label": "Provenance",
+                        "content": "From 2001"
+                    },
+                    {
+                        "label": "Provenance",
+                        "content": "Freer Gallery of Art, gift of Mr. and Mrs. Laurance P. Roberts, Baltimore, Maryland. [2]"
+                    },
+                    {
+                        "label": "Provenance",
+                        "content": "Notes:"
+                    },
+                    {
+                        "label": "Provenance",
+                        "content": "[1] Acquired by donors in the 1950s during a visit to Iran."
+                    },
+                    {
+                        "label": "Provenance",
+                        "content": "[2] See Freer Gallery of Art Purchase List after 1920 file, Collections Management Office."
+                    },
+                    {
+                        "label": "Collection",
+                        "content": "Freer Study Collection"
+                    },
+                    {
+                        "label": "Previous custodian or owner",
+                        "content": "Mr. and Mrs. Laurance P. Roberts"
+                    }
+                ],
+                "place": [
+                    {
+                        "label": "Origin",
+                        "content": "Syria"
+                    }
+                ],
+                "topic": [
+                    {
+                        "label": "Topic",
+                        "content": "ceramic"
+                    },
+                    {
+                        "label": "Topic",
+                        "content": "Syria"
+                    },
+                    {
+                        "label": "Topic",
+                        "content": "Arts of the Islamic World"
+                    },
+                    {
+                        "label": "Topic",
+                        "content": "stone-paste"
+                    }
+                ],
+                "setName": [
+                    {
+                        "label": "Related Online Resources",
+                        "content": "Google Cultural Institute"
+                    },
+                    {
+                        "label": "See more items in",
+                        "content": "Freer Gallery of Art and Arthur M. Sackler Gallery Collection"
+                    }
+                ],
+                "creditLine": [
+                    {
+                        "label": "Credit Line",
+                        "content": "Gift of Mr. and Mrs. Laurance P. Roberts"
+                    }
+                ],
+                "dataSource": [
+                    {
+                        "label": "Data Source",
+                        "content": "Freer Gallery of Art and Arthur M. Sackler Gallery"
+                    }
+                ],
+                "identifier": [
+                    {
+                        "label": "Accession Number",
+                        "content": "FSC-P-4810"
+                    }
+                ],
+                "objectType": [
+                    {
+                        "label": "Type",
+                        "content": "Vessel"
+                    }
+                ],
+                "objectRights": [
+                    {
+                        "label": "Restrictions & Rights",
+                        "content": "CC0"
+                    }
+                ],
+                "physicalDescription": [
+                    {
+                        "label": "Medium",
+                        "content": "Stone-paste painted with luster"
+                    },
+                    {
+                        "label": "Dimensions",
+                        "content": "H x W x D: 6.4 x 15.4 x 5 cm (2 1/2 x 6 1/16 x 1 15/16 in)"
+                    }
+                ]
+            },
+            "indexedStructured": {
+                "date": [
+                    "1100s",
+                    "1200s"
+                ],
+                "name": [
+                    "Roberts, Laurance P."
+                ],
+                "topic": [
+                    "Art",
+                    "Arts of the Islamic World",
+                    "Stone-paste",
+                    "Ceramics"
+                ],
+                "culture": [
+                    "Muslims",
+                    "Syrians"
+                ],
+                "object_type": [
+                    "Vessels (containers)"
+                ],
+                "online_media_type": [
+                    "Images"
+                ]
+            },
+            "descriptiveNonRepeating": {
+                "guid": "http://n2t.net/ark:/65665/ye396bd3ff1-0228-489d-8818-65b83b707204",
+                "title": {
+                    "label": "Title",
+                    "content": "Fragmentary base of a bowl"
+                },
+                "record_ID": "fsg_FSC-P-4810",
+                "unit_code": "FSG",
+                "title_sort": "FRAGMENTARY BASE OF A BOWL",
+                "data_source": "Freer Gallery of Art and Arthur M. Sackler Gallery",
+                "record_link": "https://asia.si.edu/object/FSC-P-4810/",
+                "online_media": {
+                    "media": [
+                        {
+                            "id": "damsmdm:FS-FSC_P_4810",
+                            "guid": "http://n2t.net/ark:/65665/jy5ee93d582-e226-4ba9-9be7-c179773c5b39",
+                            "type": "Images",
+                            "idsId": "FS-FSC_P_4810",
+                            "usage": {
+                                "access": "CC0"
+                            },
+                            "content": "https://ids.si.edu/ids/deliveryService?id=FS-FSC_P_4810",
+                            "thumbnail": "https://ids.si.edu/ids/deliveryService?id=FS-FSC_P_4810",
+                            "altTextAccessibility": "",
+                            "resources": [
+                                {
+                                    "label": "High-resolution TIFF",
+                                    "url": "https://ids.si.edu/ids/download?id=FS-FSC_P_4810.tif",
+                                    "width": 751,
+                                    "height": 735,
+                                    "dimensions": "751x735"
+                                },
+                                {
+                                    "label": "High-resolution JPEG",
+                                    "url": "https://ids.si.edu/ids/download?id=FS-FSC_P_4810.jpg",
+                                    "width": 751,
+                                    "height": 735,
+                                    "dimensions": "751x735"
+                                },
+                                {
+                                    "label": "Screen Image",
+                                    "url": "https://ids.si.edu/ids/download?id=FS-FSC_P_4810_screen"
+                                },
+                                {
+                                    "label": "Thumbnail Image",
+                                    "url": "https://ids.si.edu/ids/download?id=FS-FSC_P_4810_thumb"
+                                }
+                            ]
+                        }
+                    ],
+                    "mediaCount": 1
+                },
+                "metadata_usage": {
+                    "access": "CC0"
+                }
+            }
+        },
+        "hash": "79a66090f9c6e6296e98ce93125548270cdd9ddf",
+        "docSignature": "32793c2610fb72e4775d0c6d42c03dc3",
+        "timestamp": "1664286039",
+        "lastTimeUpdated": "1717673312",
+        "version": "1717668300"
+    },
+    {
+        "id": "ld1-1643390182193-1643390186259-0",
+        "title": "Fragment of a large dish",
+        "unitCode": "FSG",
+        "type": "edanmdm",
+        "url": "edanmdm:fsg_F1908.208",
+        "content": {
+            "freetext": {
+                "date": [
+                    {
+                        "label": "Date",
+                        "content": "9th-10th century"
+                    },
+                    {
+                        "label": "Period",
+                        "content": "Abbasid period"
+                    }
+                ],
+                "notes": [
+                    {
+                        "label": "Description",
+                        "content": "Iraq"
+                    },
+                    {
+                        "label": "Description",
+                        "content": "Abbasid period, 9th-10th century"
+                    },
+                    {
+                        "label": "Description",
+                        "content": "Samarra type"
+                    },
+                    {
+                        "label": "Description",
+                        "content": "Fragment of a large dish."
+                    },
+                    {
+                        "label": "Description",
+                        "content": "Clay: soft, pinkish-buff."
+                    },
+                    {
+                        "label": "Description",
+                        "content": "Glaze: transparent pink, crackled, backed by a white slip."
+                    },
+                    {
+                        "label": "Description",
+                        "content": "Decoration: painted in red and gold lustre, over glaze."
+                    },
+                    {
+                        "label": "Provenance",
+                        "content": "To 1908"
+                    },
+                    {
+                        "label": "Provenance",
+                        "content": "Maurice Nahman (1868-1948), Cairo, Egypt, to 1908 [1]"
+                    },
+                    {
+                        "label": "Provenance",
+                        "content": "From 1908 to 1919"
+                    },
+                    {
+                        "label": "Provenance",
+                        "content": "Charles Lang Freer (1854-1919), purchased from Maurice Nahman in 1908 [2]"
+                    },
+                    {
+                        "label": "Provenance",
+                        "content": "From 1920"
+                    },
+                    {
+                        "label": "Provenance",
+                        "content": "Freer Gallery of Art, gift of Charles Lang Freer in 1920 [3]"
+                    },
+                    {
+                        "label": "Provenance",
+                        "content": "Notes:"
+                    },
+                    {
+                        "label": "Provenance",
+                        "content": "[1] See Original Pottery List, L. 1707, Freer Gallery of Art and Arthur M. Sackler Gallery Archives."
+                    },
+                    {
+                        "label": "Provenance",
+                        "content": "[2] See note 1."
+                    },
+                    {
+                        "label": "Provenance",
+                        "content": "[3] The original deed of Charles Lang Freer's gift was signed in 1906. The collection was received in 1920 upon the completion of the Freer Gallery."
+                    },
+                    {
+                        "label": "Collection",
+                        "content": "Freer Gallery of Art Collection"
+                    },
+                    {
+                        "label": "Exhibition History",
+                        "content": "Iraq and China: Ceramics, Trade, and Innovation (December 4, 2004 to July 17, 2005)"
+                    },
+                    {
+                        "label": "Exhibition History",
+                        "content": "Arts of the Islamic World (May 3, 1998 to January 3, 2016)"
+                    },
+                    {
+                        "label": "Previous custodian or owner",
+                        "content": "Charles Lang Freer (1854-1919)"
+                    }
+                ],
+                "place": [
+                    {
+                        "label": "Origin",
+                        "content": "Iraq"
+                    }
+                ],
+                "topic": [
+                    {
+                        "label": "Topic",
+                        "content": "ceramic"
+                    },
+                    {
+                        "label": "Topic",
+                        "content": "Samarra ware"
+                    },
+                    {
+                        "label": "Topic",
+                        "content": "Abbasid period (750 - 1258)"
+                    },
+                    {
+                        "label": "Topic",
+                        "content": "Iraq"
+                    },
+                    {
+                        "label": "Topic",
+                        "content": "earthenware"
+                    },
+                    {
+                        "label": "Topic",
+                        "content": "Arts of the Islamic World"
+                    },
+                    {
+                        "label": "Topic",
+                        "content": "Charles Lang Freer collection"
+                    }
+                ],
+                "setName": [
+                    {
+                        "label": "Related Online Resources",
+                        "content": "Google Cultural Institute"
+                    },
+                    {
+                        "label": "See more items in",
+                        "content": "Freer Gallery of Art and Arthur M. Sackler Gallery Collection"
+                    }
+                ],
+                "creditLine": [
+                    {
+                        "label": "Credit Line",
+                        "content": "Gift of Charles Lang Freer"
+                    }
+                ],
+                "dataSource": [
+                    {
+                        "label": "Data Source",
+                        "content": "Freer Gallery of Art and Arthur M. Sackler Gallery"
+                    }
+                ],
+                "identifier": [
+                    {
+                        "label": "Accession Number",
+                        "content": "F1908.208"
+                    }
+                ],
+                "objectType": [
+                    {
+                        "label": "Type",
+                        "content": "Vessel"
+                    }
+                ],
+                "objectRights": [
+                    {
+                        "label": "Restrictions & Rights",
+                        "content": "CC0"
+                    }
+                ],
+                "physicalDescription": [
+                    {
+                        "label": "Medium",
+                        "content": "Earthenware painted with ruby luster"
+                    },
+                    {
+                        "label": "Dimensions",
+                        "content": "H x W: 14.8 x 9.4 cm (5 13/16 x 3 11/16 in)"
+                    },
+                    {
+                        "label": "Style",
+                        "content": "Samarra ware"
+                    }
+                ]
+            },
+            "indexedStructured": {
+                "date": [
+                    "900s",
+                    "800s",
+                    "700s",
+                    "1100s",
+                    "1200s",
+                    "1000s"
+                ],
+                "name": [
+                    "Freer, Charles Lang"
+                ],
+                "topic": [
+                    "Charles Lang Freer collection",
+                    "Art",
+                    "Pottery",
+                    "Arts of the Islamic World",
+                    "Ceramics",
+                    "Samarra ware"
+                ],
+                "culture": [
+                    "Muslims",
+                    "Abbasids",
+                    "Iraqis"
+                ],
+                "object_type": [
+                    "Vessels (containers)"
+                ],
+                "online_media_type": [
+                    "Images"
+                ]
+            },
+            "descriptiveNonRepeating": {
+                "guid": "http://n2t.net/ark:/65665/ye3e44487de-730d-48c1-9b97-ec90fd7508ad",
+                "title": {
+                    "label": "Title",
+                    "content": "Fragment of a large dish"
+                },
+                "record_ID": "fsg_F1908.208",
+                "unit_code": "FSG",
+                "title_sort": "FRAGMENT OF A LARGE DISH",
+                "data_source": "Freer Gallery of Art and Arthur M. Sackler Gallery",
+                "record_link": "https://asia.si.edu/object/F1908.208/",
+                "online_media": {
+                    "media": [
+                        {
+                            "id": "damsmdm:FS-6621_01",
+                            "guid": "http://n2t.net/ark:/65665/jy5a38b7914-5b0b-479d-bcd1-3f16058f21a8",
+                            "type": "Images",
+                            "idsId": "FS-6621_01",
+                            "usage": {
+                                "access": "CC0"
+                            },
+                            "content": "https://ids.si.edu/ids/deliveryService?id=FS-6621_01",
+                            "thumbnail": "https://ids.si.edu/ids/deliveryService?id=FS-6621_01",
+                            "altTextAccessibility": "",
+                            "resources": [
+                                {
+                                    "label": "High-resolution TIFF",
+                                    "url": "https://ids.si.edu/ids/download?id=FS-6621_01.tif",
+                                    "width": 2700,
+                                    "height": 1717,
+                                    "dimensions": "2700x1717"
+                                },
+                                {
+                                    "label": "High-resolution JPEG",
+                                    "url": "https://ids.si.edu/ids/download?id=FS-6621_01.jpg",
+                                    "width": 2700,
+                                    "height": 1717,
+                                    "dimensions": "2700x1717"
+                                },
+                                {
+                                    "label": "Screen Image",
+                                    "url": "https://ids.si.edu/ids/download?id=FS-6621_01_screen"
+                                },
+                                {
+                                    "label": "Thumbnail Image",
+                                    "url": "https://ids.si.edu/ids/download?id=FS-6621_01_thumb"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "damsmdm:FS-6621_02",
+                            "guid": "http://n2t.net/ark:/65665/jy5f3e46953-7d34-493c-b078-b57e3a9fa47a",
+                            "type": "Images",
+                            "idsId": "FS-6621_02",
+                            "usage": {
+                                "access": "CC0"
+                            },
+                            "content": "https://ids.si.edu/ids/deliveryService?id=FS-6621_02",
+                            "thumbnail": "https://ids.si.edu/ids/deliveryService?id=FS-6621_02",
+                            "altTextAccessibility": "",
+                            "resources": [
+                                {
+                                    "label": "High-resolution TIFF",
+                                    "url": "https://ids.si.edu/ids/download?id=FS-6621_02.tif",
+                                    "width": 2700,
+                                    "height": 1792,
+                                    "dimensions": "2700x1792"
+                                },
+                                {
+                                    "label": "High-resolution JPEG",
+                                    "url": "https://ids.si.edu/ids/download?id=FS-6621_02.jpg",
+                                    "width": 2700,
+                                    "height": 1792,
+                                    "dimensions": "2700x1792"
+                                },
+                                {
+                                    "label": "Screen Image",
+                                    "url": "https://ids.si.edu/ids/download?id=FS-6621_02_screen"
+                                },
+                                {
+                                    "label": "Thumbnail Image",
+                                    "url": "https://ids.si.edu/ids/download?id=FS-6621_02_thumb"
+                                }
+                            ]
+                        }
+                    ],
+                    "mediaCount": 2
+                },
+                "metadata_usage": {
+                    "access": "CC0"
+                }
+            }
+        },
+        "hash": "4016ae5ff8274e24d75924cdd54b0bcd05ea2d95",
+        "docSignature": "930c2eaf6421ed0c1991de60c9a9ec81",
+        "timestamp": "1664286024",
+        "lastTimeUpdated": "1717673312",
+        "version": "1717668300"
+    },
+    {
+        "id": "ld1-1643390182193-1643390200053-0",
+        "title": "Fragment with a figure",
+        "unitCode": "FSG",
+        "type": "edanmdm",
+        "url": "edanmdm:fsg_FSC-P-4794",
+        "content": {
+            "freetext": {
+                "date": [
+                    {
+                        "label": "Date",
+                        "content": "early 13th century"
+                    },
+                    {
+                        "label": "Period",
+                        "content": "Saljuq period"
+                    }
+                ],
+                "notes": [
+                    {
+                        "label": "Provenance",
+                        "content": "From 1950s – 2001"
+                    },
+                    {
+                        "label": "Provenance",
+                        "content": "Mr. and Mrs. Laurance P. Roberts, acquired in the 1950s from Iran. [1]"
+                    },
+                    {
+                        "label": "Provenance",
+                        "content": "From 2001"
+                    },
+                    {
+                        "label": "Provenance",
+                        "content": "Freer Gallery of Art, gift of Mr. and Mrs. Laurance P. Roberts, Baltimore, Maryland. [2]"
+                    },
+                    {
+                        "label": "Provenance",
+                        "content": "Notes:"
+                    },
+                    {
+                        "label": "Provenance",
+                        "content": "[1] Acquired by donors in the 1950s during a visit to Iran."
+                    },
+                    {
+                        "label": "Provenance",
+                        "content": "[2] See Freer Gallery of Art Purchase List after 1920 file, Collections Management Office."
+                    },
+                    {
+                        "label": "Collection",
+                        "content": "Freer Study Collection"
+                    },
+                    {
+                        "label": "Previous custodian or owner",
+                        "content": "Mr. and Mrs. Laurance P. Roberts"
+                    }
+                ],
+                "place": [
+                    {
+                        "label": "Origin",
+                        "content": "Iran"
+                    }
+                ],
+                "topic": [
+                    {
+                        "label": "Topic",
+                        "content": "ceramic"
+                    },
+                    {
+                        "label": "Topic",
+                        "content": "Saljuq period (1037 - 1300)"
+                    },
+                    {
+                        "label": "Topic",
+                        "content": "Iran"
+                    },
+                    {
+                        "label": "Topic",
+                        "content": "Arts of the Islamic World"
+                    },
+                    {
+                        "label": "Topic",
+                        "content": "stone-paste"
+                    }
+                ],
+                "setName": [
+                    {
+                        "label": "Related Online Resources",
+                        "content": "Google Cultural Institute"
+                    },
+                    {
+                        "label": "See more items in",
+                        "content": "Freer Gallery of Art and Arthur M. Sackler Gallery Collection"
+                    }
+                ],
+                "creditLine": [
+                    {
+                        "label": "Credit Line",
+                        "content": "Gift of Mr. and Mrs. Laurance P. Roberts"
+                    }
+                ],
+                "dataSource": [
+                    {
+                        "label": "Data Source",
+                        "content": "Freer Gallery of Art and Arthur M. Sackler Gallery"
+                    }
+                ],
+                "identifier": [
+                    {
+                        "label": "Accession Number",
+                        "content": "FSC-P-4794"
+                    }
+                ],
+                "objectType": [
+                    {
+                        "label": "Type",
+                        "content": "Vessel"
+                    }
+                ],
+                "objectRights": [
+                    {
+                        "label": "Restrictions & Rights",
+                        "content": "CC0"
+                    }
+                ],
+                "physicalDescription": [
+                    {
+                        "label": "Medium",
+                        "content": "Stone-paste painted under and over glaze with enamel (mina'i)"
+                    },
+                    {
+                        "label": "Dimensions",
+                        "content": "H x W x D: 4.2 x 3.2 x 1 cm (1 5/8 x 1 1/4 x 3/8 in)"
+                    }
+                ]
+            },
+            "indexedStructured": {
+                "date": [
+                    "1200s"
+                ],
+                "name": [
+                    "Roberts, Laurance P."
+                ],
+                "topic": [
+                    "Art",
+                    "Arts of the Islamic World",
+                    "Stone-paste",
+                    "Saljuq period (1037 - 1300)",
+                    "Ceramics"
+                ],
+                "culture": [
+                    "Muslims",
+                    "Iranians"
+                ],
+                "object_type": [
+                    "Vessels (containers)"
+                ],
+                "online_media_type": [
+                    "Images"
+                ]
+            },
+            "descriptiveNonRepeating": {
+                "guid": "http://n2t.net/ark:/65665/ye366ee2d22-aae4-4ed4-bf69-3872c12eab38",
+                "title": {
+                    "label": "Title",
+                    "content": "Fragment with a figure"
+                },
+                "record_ID": "fsg_FSC-P-4794",
+                "unit_code": "FSG",
+                "title_sort": "FRAGMENT WITH A FIGURE",
+                "data_source": "Freer Gallery of Art and Arthur M. Sackler Gallery",
+                "record_link": "https://asia.si.edu/object/FSC-P-4794/",
+                "online_media": {
+                    "media": [
+                        {
+                            "id": "damsmdm:FS-FSC-P-4794_1",
+                            "guid": "http://n2t.net/ark:/65665/jy5c5642179-a23d-454d-afdf-2ffa2cae1d75",
+                            "type": "Images",
+                            "idsId": "FS-FSC-P-4794_1",
+                            "usage": {
+                                "access": "CC0"
+                            },
+                            "content": "https://ids.si.edu/ids/deliveryService?id=FS-FSC-P-4794_1",
+                            "thumbnail": "https://ids.si.edu/ids/deliveryService?id=FS-FSC-P-4794_1",
+                            "altTextAccessibility": "",
+                            "resources": [
+                                {
+                                    "label": "High-resolution TIFF",
+                                    "url": "https://ids.si.edu/ids/download?id=FS-FSC-P-4794_1.tif",
+                                    "width": 3000,
+                                    "height": 2000,
+                                    "dimensions": "3000x2000"
+                                },
+                                {
+                                    "label": "High-resolution JPEG",
+                                    "url": "https://ids.si.edu/ids/download?id=FS-FSC-P-4794_1.jpg",
+                                    "width": 3000,
+                                    "height": 2000,
+                                    "dimensions": "3000x2000"
+                                },
+                                {
+                                    "label": "Screen Image",
+                                    "url": "https://ids.si.edu/ids/download?id=FS-FSC-P-4794_1_screen"
+                                },
+                                {
+                                    "label": "Thumbnail Image",
+                                    "url": "https://ids.si.edu/ids/download?id=FS-FSC-P-4794_1_thumb"
+                                }
+                            ]
+                        }
+                    ],
+                    "mediaCount": 1
+                },
+                "metadata_usage": {
+                    "access": "CC0"
+                }
+            }
+        },
+        "hash": "0fd3e84761b984cb50707f0800bd9c8c86a4e1c2",
+        "docSignature": "c2b39d0f9e8833017c8fc6f7267bc445",
+        "timestamp": "1664286039",
+        "lastTimeUpdated": "1717673312",
+        "version": "1717668300"
+    },
+    {
+        "id": "ld1-1643390182193-1643390200057-1",
+        "title": "Fragment",
+        "unitCode": "FSG",
+        "type": "edanmdm",
+        "url": "edanmdm:fsg_FSC-P-4801",
+        "content": {
+            "freetext": {
+                "date": [
+                    {
+                        "label": "Date",
+                        "content": "1250-1300"
+                    },
+                    {
+                        "label": "Period",
+                        "content": "Saljuq period"
+                    }
+                ],
+                "notes": [
+                    {
+                        "label": "Provenance",
+                        "content": "From 1950s – 2001"
+                    },
+                    {
+                        "label": "Provenance",
+                        "content": "Mr. and Mrs. Laurance P. Roberts, acquired in the 1950s from Iran. [1]"
+                    },
+                    {
+                        "label": "Provenance",
+                        "content": "From 2001"
+                    },
+                    {
+                        "label": "Provenance",
+                        "content": "Freer Gallery of Art, gift of Mr. and Mrs. Laurance P. Roberts, Baltimore, Maryland. [2]"
+                    },
+                    {
+                        "label": "Provenance",
+                        "content": "Notes:"
+                    },
+                    {
+                        "label": "Provenance",
+                        "content": "[1] Acquired by donors in the 1950s during a visit to Iran."
+                    },
+                    {
+                        "label": "Provenance",
+                        "content": "[2] See Freer Gallery of Art Purchase List after 1920 file, Collections Management Office."
+                    },
+                    {
+                        "label": "Collection",
+                        "content": "Freer Study Collection"
+                    },
+                    {
+                        "label": "Previous custodian or owner",
+                        "content": "Mr. and Mrs. Laurance P. Roberts"
+                    }
+                ],
+                "place": [
+                    {
+                        "label": "Origin",
+                        "content": "Iran"
+                    }
+                ],
+                "topic": [
+                    {
+                        "label": "Topic",
+                        "content": "ceramic"
+                    },
+                    {
+                        "label": "Topic",
+                        "content": "Saljuq period (1037 - 1300)"
+                    },
+                    {
+                        "label": "Topic",
+                        "content": "Iran"
+                    },
+                    {
+                        "label": "Topic",
+                        "content": "Arts of the Islamic World"
+                    },
+                    {
+                        "label": "Topic",
+                        "content": "stone-paste"
+                    }
+                ],
+                "setName": [
+                    {
+                        "label": "Related Online Resources",
+                        "content": "Google Cultural Institute"
+                    },
+                    {
+                        "label": "See more items in",
+                        "content": "Freer Gallery of Art and Arthur M. Sackler Gallery Collection"
+                    }
+                ],
+                "creditLine": [
+                    {
+                        "label": "Credit Line",
+                        "content": "Gift of Mr. and Mrs. Laurance P. Roberts"
+                    }
+                ],
+                "dataSource": [
+                    {
+                        "label": "Data Source",
+                        "content": "Freer Gallery of Art and Arthur M. Sackler Gallery"
+                    }
+                ],
+                "identifier": [
+                    {
+                        "label": "Accession Number",
+                        "content": "FSC-P-4801"
+                    }
+                ],
+                "objectType": [
+                    {
+                        "label": "Type",
+                        "content": "Vessel"
+                    }
+                ],
+                "objectRights": [
+                    {
+                        "label": "Restrictions & Rights",
+                        "content": "CC0"
+                    }
+                ],
+                "physicalDescription": [
+                    {
+                        "label": "Medium",
+                        "content": "Stone-paste painted under and over glaze with enamel (mina'i)"
+                    },
+                    {
+                        "label": "Dimensions",
+                        "content": "H x W x D: 3.9 x 11.2 x 12.5 cm (1 9/16 x 4 7/16 x 4 15/16 in)"
+                    }
+                ]
+            },
+            "indexedStructured": {
+                "date": [
+                    "1200s",
+                    "1300s"
+                ],
+                "name": [
+                    "Roberts, Laurance P."
+                ],
+                "topic": [
+                    "Art",
+                    "Arts of the Islamic World",
+                    "Stone-paste",
+                    "Saljuq period (1037 - 1300)",
+                    "Ceramics"
+                ],
+                "culture": [
+                    "Muslims",
+                    "Iranians"
+                ],
+                "object_type": [
+                    "Vessels (containers)"
+                ],
+                "online_media_type": [
+                    "Images"
+                ]
+            },
+            "descriptiveNonRepeating": {
+                "guid": "http://n2t.net/ark:/65665/ye3668f5a29-0fc1-4efc-bdf2-81d5f88a8c17",
+                "title": {
+                    "label": "Title",
+                    "content": "Fragment"
+                },
+                "record_ID": "fsg_FSC-P-4801",
+                "unit_code": "FSG",
+                "title_sort": "FRAGMENT",
+                "data_source": "Freer Gallery of Art and Arthur M. Sackler Gallery",
+                "record_link": "https://asia.si.edu/object/FSC-P-4801/",
+                "online_media": {
+                    "media": [
+                        {
+                            "id": "damsmdm:FS-FSC-P-4801_1",
+                            "guid": "http://n2t.net/ark:/65665/jy594722d2c-c497-434a-8b81-66fdfeff8b28",
+                            "type": "Images",
+                            "idsId": "FS-FSC-P-4801_1",
+                            "usage": {
+                                "access": "CC0"
+                            },
+                            "content": "https://ids.si.edu/ids/deliveryService?id=FS-FSC-P-4801_1",
+                            "thumbnail": "https://ids.si.edu/ids/deliveryService?id=FS-FSC-P-4801_1",
+                            "altTextAccessibility": "",
+                            "resources": [
+                                {
+                                    "label": "High-resolution TIFF",
+                                    "url": "https://ids.si.edu/ids/download?id=FS-FSC-P-4801_1.tif",
+                                    "width": 3000,
+                                    "height": 2000,
+                                    "dimensions": "3000x2000"
+                                },
+                                {
+                                    "label": "High-resolution JPEG",
+                                    "url": "https://ids.si.edu/ids/download?id=FS-FSC-P-4801_1.jpg",
+                                    "width": 3000,
+                                    "height": 2000,
+                                    "dimensions": "3000x2000"
+                                },
+                                {
+                                    "label": "Screen Image",
+                                    "url": "https://ids.si.edu/ids/download?id=FS-FSC-P-4801_1_screen"
+                                },
+                                {
+                                    "label": "Thumbnail Image",
+                                    "url": "https://ids.si.edu/ids/download?id=FS-FSC-P-4801_1_thumb"
+                                }
+                            ]
+                        }
+                    ],
+                    "mediaCount": 1
+                },
+                "metadata_usage": {
+                    "access": "CC0"
+                }
+            }
+        },
+        "hash": "13188c36d5b0ec03d4e661c29ab269ca57a1030a",
+        "docSignature": "6c5de45249337d02c1353e66cfb0d83e",
+        "timestamp": "1664286039",
+        "lastTimeUpdated": "1717673312",
+        "version": "1717668300"
+    },
+    {
+        "id": "ld1-1643390182193-1643390200059-1",
+        "title": "Fragment decorated with a duck",
+        "unitCode": "FSG",
+        "type": "edanmdm",
+        "url": "edanmdm:fsg_FSC-P-4804",
+        "content": {
+            "freetext": {
+                "date": [
+                    {
+                        "label": "Date",
+                        "content": "early 13th century"
+                    },
+                    {
+                        "label": "Period",
+                        "content": "Saljuq period"
+                    }
+                ],
+                "notes": [
+                    {
+                        "label": "Provenance",
+                        "content": "From 1950s – 2001"
+                    },
+                    {
+                        "label": "Provenance",
+                        "content": "Mr. and Mrs. Laurance P. Roberts, acquired in the 1950s from Iran. [1]"
+                    },
+                    {
+                        "label": "Provenance",
+                        "content": "From 2001"
+                    },
+                    {
+                        "label": "Provenance",
+                        "content": "Freer Gallery of Art, gift of Mr. and Mrs. Laurance P. Roberts, Baltimore, Maryland. [2]"
+                    },
+                    {
+                        "label": "Provenance",
+                        "content": "Notes:"
+                    },
+                    {
+                        "label": "Provenance",
+                        "content": "[1] Acquired by donors in the 1950s during a visit to Iran."
+                    },
+                    {
+                        "label": "Provenance",
+                        "content": "[2] See Freer Gallery of Art Purchase List after 1920 file, Collections Management Office."
+                    },
+                    {
+                        "label": "Collection",
+                        "content": "Freer Study Collection"
+                    },
+                    {
+                        "label": "Previous custodian or owner",
+                        "content": "Mr. and Mrs. Laurance P. Roberts"
+                    }
+                ],
+                "place": [
+                    {
+                        "label": "Origin",
+                        "content": "Iran"
+                    }
+                ],
+                "topic": [
+                    {
+                        "label": "Topic",
+                        "content": "ceramic"
+                    },
+                    {
+                        "label": "Topic",
+                        "content": "duck"
+                    },
+                    {
+                        "label": "Topic",
+                        "content": "Saljuq period (1037 - 1300)"
+                    },
+                    {
+                        "label": "Topic",
+                        "content": "Iran"
+                    },
+                    {
+                        "label": "Topic",
+                        "content": "Arts of the Islamic World"
+                    },
+                    {
+                        "label": "Topic",
+                        "content": "stone-paste"
+                    }
+                ],
+                "setName": [
+                    {
+                        "label": "Related Online Resources",
+                        "content": "Google Cultural Institute"
+                    },
+                    {
+                        "label": "See more items in",
+                        "content": "Freer Gallery of Art and Arthur M. Sackler Gallery Collection"
+                    }
+                ],
+                "creditLine": [
+                    {
+                        "label": "Credit Line",
+                        "content": "Gift of Mr. and Mrs. Laurance P. Roberts"
+                    }
+                ],
+                "dataSource": [
+                    {
+                        "label": "Data Source",
+                        "content": "Freer Gallery of Art and Arthur M. Sackler Gallery"
+                    }
+                ],
+                "identifier": [
+                    {
+                        "label": "Accession Number",
+                        "content": "FSC-P-4804"
+                    }
+                ],
+                "objectType": [
+                    {
+                        "label": "Type",
+                        "content": "Vessel"
+                    }
+                ],
+                "objectRights": [
+                    {
+                        "label": "Restrictions & Rights",
+                        "content": "CC0"
+                    }
+                ],
+                "physicalDescription": [
+                    {
+                        "label": "Medium",
+                        "content": "Stone-paste painted under and over glaze with enamel (mina'i)"
+                    },
+                    {
+                        "label": "Dimensions",
+                        "content": "H x W x D: 4.7 x 3.8 x 0.6 cm (1 7/8 x 1 1/2 x 1/4 in)"
+                    }
+                ]
+            },
+            "indexedStructured": {
+                "date": [
+                    "1200s"
+                ],
+                "name": [
+                    "Roberts, Laurance P."
+                ],
+                "topic": [
+                    "Art",
+                    "Arts of the Islamic World",
+                    "Stone-paste",
+                    "Saljuq period (1037 - 1300)",
+                    "Ceramics",
+                    "Ducks"
+                ],
+                "culture": [
+                    "Muslims",
+                    "Iranians"
+                ],
+                "object_type": [
+                    "Vessels (containers)"
+                ],
+                "online_media_type": [
+                    "Images"
+                ]
+            },
+            "descriptiveNonRepeating": {
+                "guid": "http://n2t.net/ark:/65665/ye366b0afe2-97d3-42c9-94da-2ae3df55f871",
+                "title": {
+                    "label": "Title",
+                    "content": "Fragment decorated with a duck"
+                },
+                "record_ID": "fsg_FSC-P-4804",
+                "unit_code": "FSG",
+                "title_sort": "FRAGMENT DECORATED WITH A DUCK",
+                "data_source": "Freer Gallery of Art and Arthur M. Sackler Gallery",
+                "record_link": "https://asia.si.edu/object/FSC-P-4804/",
+                "online_media": {
+                    "media": [
+                        {
+                            "id": "damsmdm:FS-8225_16",
+                            "guid": "http://n2t.net/ark:/65665/jy563966191-4b43-4b5f-90c0-747d37503972",
+                            "type": "Images",
+                            "idsId": "FS-8225_16",
+                            "usage": {
+                                "access": "CC0"
+                            },
+                            "content": "https://ids.si.edu/ids/deliveryService?id=FS-8225_16",
+                            "thumbnail": "https://ids.si.edu/ids/deliveryService?id=FS-8225_16",
+                            "altTextAccessibility": "",
+                            "resources": [
+                                {
+                                    "label": "High-resolution TIFF",
+                                    "url": "https://ids.si.edu/ids/download?id=FS-8225_16.tif",
+                                    "width": 3153,
+                                    "height": 4200,
+                                    "dimensions": "3153x4200"
+                                },
+                                {
+                                    "label": "High-resolution JPEG",
+                                    "url": "https://ids.si.edu/ids/download?id=FS-8225_16.jpg",
+                                    "width": 3153,
+                                    "height": 4200,
+                                    "dimensions": "3153x4200"
+                                },
+                                {
+                                    "label": "Screen Image",
+                                    "url": "https://ids.si.edu/ids/download?id=FS-8225_16_screen"
+                                },
+                                {
+                                    "label": "Thumbnail Image",
+                                    "url": "https://ids.si.edu/ids/download?id=FS-8225_16_thumb"
+                                }
+                            ]
+                        }
+                    ],
+                    "mediaCount": 1
+                },
+                "metadata_usage": {
+                    "access": "CC0"
+                }
+            }
+        },
+        "hash": "13ed006efa251d7e388d12070467ebebba08c263",
+        "docSignature": "5b984dc1b27b39f6d355afacfb9b8a80",
+        "timestamp": "1664286039",
+        "lastTimeUpdated": "1717673312",
+        "version": "1717668300"
+    },
+    {
+        "id": "ld1-1643390182193-1643390200068-1",
+        "title": "Fragmentary base of a bowl with image of a rider",
+        "unitCode": "FSG",
+        "type": "edanmdm",
+        "url": "edanmdm:fsg_FSC-P-4818",
+        "content": {
+            "freetext": {
+                "date": [
+                    {
+                        "label": "Date",
+                        "content": "early 13th century"
+                    }
+                ],
+                "notes": [
+                    {
+                        "label": "Provenance",
+                        "content": "From 1950s – 2001"
+                    },
+                    {
+                        "label": "Provenance",
+                        "content": "Mr. and Mrs. Laurance P. Roberts, acquired in the 1950s from Iran. [1]"
+                    },
+                    {
+                        "label": "Provenance",
+                        "content": "From 2001"
+                    },
+                    {
+                        "label": "Provenance",
+                        "content": "Freer Gallery of Art, gift of Mr. and Mrs. Laurance P. Roberts, Baltimore, Maryland. [2]"
+                    },
+                    {
+                        "label": "Provenance",
+                        "content": "Notes:"
+                    },
+                    {
+                        "label": "Provenance",
+                        "content": "[1] Acquired by donors in the 1950s during a visit to Iran."
+                    },
+                    {
+                        "label": "Provenance",
+                        "content": "[2] See Freer Gallery of Art Purchase List after 1920 file, Collections Management Office."
+                    },
+                    {
+                        "label": "Collection",
+                        "content": "Freer Study Collection"
+                    },
+                    {
+                        "label": "Previous custodian or owner",
+                        "content": "Mr. and Mrs. Laurance P. Roberts"
+                    }
+                ],
+                "place": [
+                    {
+                        "label": "Origin",
+                        "content": "Iran"
+                    }
+                ],
+                "topic": [
+                    {
+                        "label": "Topic",
+                        "content": "ceramic"
+                    },
+                    {
+                        "label": "Topic",
+                        "content": "Iran"
+                    },
+                    {
+                        "label": "Topic",
+                        "content": "Arts of the Islamic World"
+                    },
+                    {
+                        "label": "Topic",
+                        "content": "stone-paste"
+                    }
+                ],
+                "setName": [
+                    {
+                        "label": "Related Online Resources",
+                        "content": "Google Cultural Institute"
+                    },
+                    {
+                        "label": "See more items in",
+                        "content": "Freer Gallery of Art and Arthur M. Sackler Gallery Collection"
+                    }
+                ],
+                "creditLine": [
+                    {
+                        "label": "Credit Line",
+                        "content": "Gift of Mr. and Mrs. Laurance P. Roberts"
+                    }
+                ],
+                "dataSource": [
+                    {
+                        "label": "Data Source",
+                        "content": "Freer Gallery of Art and Arthur M. Sackler Gallery"
+                    }
+                ],
+                "identifier": [
+                    {
+                        "label": "Accession Number",
+                        "content": "FSC-P-4818"
+                    }
+                ],
+                "objectType": [
+                    {
+                        "label": "Type",
+                        "content": "Vessel"
+                    }
+                ],
+                "objectRights": [
+                    {
+                        "label": "Restrictions & Rights",
+                        "content": "CC0"
+                    }
+                ],
+                "physicalDescription": [
+                    {
+                        "label": "Medium",
+                        "content": "Stone-paste painted with luster"
+                    },
+                    {
+                        "label": "Dimensions",
+                        "content": "H x W x D: 3.2 x 11.9 x 10.2 cm (1 1/4 x 4 11/16 x 4 in)"
+                    }
+                ]
+            },
+            "indexedStructured": {
+                "date": [
+                    "1200s"
+                ],
+                "name": [
+                    "Roberts, Laurance P."
+                ],
+                "topic": [
+                    "Art",
+                    "Arts of the Islamic World",
+                    "Stone-paste",
+                    "Ceramics"
+                ],
+                "culture": [
+                    "Muslims",
+                    "Iranians"
+                ],
+                "object_type": [
+                    "Vessels (containers)"
+                ],
+                "online_media_type": [
+                    "Images"
+                ]
+            },
+            "descriptiveNonRepeating": {
+                "guid": "http://n2t.net/ark:/65665/ye35e60e9df-9e34-4bee-96ea-4d0d06840466",
+                "title": {
+                    "label": "Title",
+                    "content": "Fragmentary base of a bowl with image of a rider"
+                },
+                "record_ID": "fsg_FSC-P-4818",
+                "unit_code": "FSG",
+                "title_sort": "FRAGMENTARY BASE OF A BOWL WITH IMAGE OF A RIDER",
+                "data_source": "Freer Gallery of Art and Arthur M. Sackler Gallery",
+                "record_link": "https://asia.si.edu/object/FSC-P-4818/",
+                "online_media": {
+                    "media": [
+                        {
+                            "id": "damsmdm:FS-FSC_P_4818",
+                            "guid": "http://n2t.net/ark:/65665/jy5f3356c53-87a2-453f-ac94-80730856ba75",
+                            "type": "Images",
+                            "idsId": "FS-FSC_P_4818",
+                            "usage": {
+                                "access": "CC0"
+                            },
+                            "content": "https://ids.si.edu/ids/deliveryService?id=FS-FSC_P_4818",
+                            "thumbnail": "https://ids.si.edu/ids/deliveryService?id=FS-FSC_P_4818",
+                            "altTextAccessibility": "",
+                            "resources": [
+                                {
+                                    "label": "High-resolution TIFF",
+                                    "url": "https://ids.si.edu/ids/download?id=FS-FSC_P_4818.tif",
+                                    "width": 649,
+                                    "height": 623,
+                                    "dimensions": "649x623"
+                                },
+                                {
+                                    "label": "High-resolution JPEG",
+                                    "url": "https://ids.si.edu/ids/download?id=FS-FSC_P_4818.jpg",
+                                    "width": 649,
+                                    "height": 623,
+                                    "dimensions": "649x623"
+                                },
+                                {
+                                    "label": "Screen Image",
+                                    "url": "https://ids.si.edu/ids/download?id=FS-FSC_P_4818_screen"
+                                },
+                                {
+                                    "label": "Thumbnail Image",
+                                    "url": "https://ids.si.edu/ids/download?id=FS-FSC_P_4818_thumb"
+                                }
+                            ]
+                        }
+                    ],
+                    "mediaCount": 1
+                },
+                "metadata_usage": {
+                    "access": "CC0"
+                }
+            }
+        },
+        "hash": "1674411c96c5a6a8aaf44f2e8a57a9f5fdadd5b2",
+        "docSignature": "2fe9e410ba39dbb2c9cf8204fa238c26",
+        "timestamp": "1664286039",
+        "lastTimeUpdated": "1717673312",
+        "version": "1717668300"
+    }
+]
