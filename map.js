@@ -9,7 +9,7 @@ const rendermap = async () => {
 var geojson;  // Declare variable to hold the geojson layer
 
 // var geojsonLayer = L.geoJson.ajax("data/latlong.geo.json");       
-const geojsondata = await d3.json("../data/latlong.geo.json");
+const geojsondata = await d3.json("./data/latlong.geo.json");
 
 // get data
 
